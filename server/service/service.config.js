@@ -1,6 +1,6 @@
 const knex = require('knex')({
     client: 'pg',
-    version: '9.6',
+    version: '10.4',
     connection: {
         host: '',
         user: '',

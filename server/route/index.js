@@ -11,7 +11,7 @@ const editService = require('./../service/edit');
 const profileService = require('./../service/profile');
 const multer  = require('multer');
 const secret = require('./../secret');
-const key = 'kIm_HeE_cHeOl_';
+
 
 const storage = multer.diskStorage({
     destination: function (req, file, cb) {

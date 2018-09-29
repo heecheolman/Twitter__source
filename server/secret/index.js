@@ -1,5 +1,4 @@
 const crypto = require('crypto');
-// 암호화 및 복호화
 module.exports = {
     salting: (data) => {
         const buf = crypto.randomBytes(64);
