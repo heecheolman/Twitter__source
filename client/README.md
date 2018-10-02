@@ -1,21 +1,15 @@
-# client
+# Client
+클라이언트 관련 소스코드입니다. 
 
-> A Vue.js project
+### [Vue Webpack Template](https://github.com/vuejs-templates/webpack) 사용
+webpack + vue-loader 조합으로 hot-reload, lint-on-save, unit testing & css extraction 지원합니다.
 
-## Build Setup
+#### dist/
+webpack 으로 빌드된 번들파일들이 들어있는 폴더입니다.
 
-``` bash
-# install dependencies
-npm install
+#### static/
+사용자가 이미지를 업로드 할 때 `static/images` 폴더에 담깁니다.
 
-# serve with hot reload at localhost:8080
-npm run dev
+#### src/
+소스파일들이 담겨있습니다.
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
