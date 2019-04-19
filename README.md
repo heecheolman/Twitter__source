@@ -1,30 +1,30 @@
 # Twitter
 
-Twitter 프로젝트는 Web Front-end 의 기술을 익히기 위해 진행한 프로젝트입니다.  
-Twitter(트위터) 와의 저작권 문제가 생길 시 삭제 하도록 하겠습니다.
+The Twitter project is a project that I worked on to learn the skills of Web Front-end. 
+I'll delete it in case of copyright problems with Twitter.
 
-각 폴더별로 README.md 파일이 존재합니다.
+If you need an explanation, You can refer to the README.md in each folder.
 
 ### Privew
 
-#### 로그인 페이지
-![이미지](https://t1.daumcdn.net/cfile/tistory/99367D4B5BB37DB01C)
+#### Login page
+![img](https://t1.daumcdn.net/cfile/tistory/99367D4B5BB37DB01C)
 
-#### 가입 페이지
-![이미지](https://t1.daumcdn.net/cfile/tistory/9935434B5BB37DB11C)
+#### Sign Up page
+![img](https://t1.daumcdn.net/cfile/tistory/9935434B5BB37DB11C)
 
-#### 콘텐츠 페이지
-![이미지](https://t1.daumcdn.net/cfile/tistory/99C4314B5BB37DB325)
+#### Content page
+![img](https://t1.daumcdn.net/cfile/tistory/99C4314B5BB37DB325)
 
-#### 프로필 페이지
-![이미지](https://t1.daumcdn.net/cfile/tistory/9954734B5BB37DB405)
+#### Profile page
+![img](https://t1.daumcdn.net/cfile/tistory/9954734B5BB37DB405)
 
-#### 반응형
-![이미지](https://t1.daumcdn.net/cfile/tistory/99A078425BB37E5A13)
+#### Reactive-Web
+![img](https://t1.daumcdn.net/cfile/tistory/99A078425BB37E5A13)
 
 
 
-## 폴더 구조
+## File Tree
 ```
 Twitter__source
 ├── client/
@@ -41,44 +41,44 @@ Twitter__source
     └── app.js
 ```
 
-## 기능
+## Function
 
-* 회원가입
-* 로그인
-* 팔로우, 언팔로우
-* 이미지 업로드
-* 트윗 수정 및 삭제
-* 자기소개 작성 및 수정
-* 회원 검색
-* 반응형 웹
+* Sing Up
+* Login
+* Follwing and Unfollowing
+* Upload image
+* Deleting and Modifying Tweets
+* Customize Your profile
+* Searching account
+* Supporting RWD
 
-## 개발환경
+## Development Enviroment
 
 #### [Vue.js](https://kr.vuejs.org/v2/guide/index.html)
-컴포넌트 기반 웹 프레임워크
+CBD Based web framework
 
 #### [Vuex](https://vuex.vuejs.org/kr/guide/state.html)
-Vue.js 의 상태관리를 위한 라이브러리
+Library for Ecology Management in vue.js
 
 #### [express.js](https://expressjs.com/ko/)
-Node.js 상에서 동작하는 웹 개발 프레임워크
+Web Development Framework for Operating on Node.js
 
 #### [axios.js](https://github.com/axios/axios)
-비동기 통신을 위한 모듈
+Modules for asynchronous communication
 
 #### [knex.js](https://knexjs.org/)
-Node.js SQL 빌더 및 질의 기능을 제공하는 라이브러리
+A library that provides node.js SQL Builder and query capabilities
 
 #### [multer](https://github.com/expressjs/multer)
-파일 업로드를 위해 사용되는 multipart/form-data 를 다루기 위한 node.js 의 미들웨어
+middleware of node.js for handling multipart/form-data used for file upload
 
 #### AWS: EC2
-아마존 웹서비스의 EC2를 이용해 호스팅
+Hosted using the Amazon Web Services EC2
 
 #### AWS: RDS
-postgreSQL 을 사용
+Using the postgresSQL
 
-### [CSS - BEM 방법론](http://getbem.com/naming/)
+### [CSS - BEM Methodology](http://getbem.com/naming/)
 
 
 ## 개발기
