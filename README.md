@@ -5,7 +5,7 @@ I'll delete it in case of copyright problems with Twitter.
 
 If you need an explanation, You can refer to the README.md in each folder.
 
-### Privew
+### Priview
 
 #### Login page
 ![img](https://t1.daumcdn.net/cfile/tistory/99367D4B5BB37DB01C)
