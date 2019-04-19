@@ -1,6 +1,6 @@
 # Twitter
 
-The Twitter project is a project that I worked on to learn the skills of Web Front-end. 
+The Twitter project is a project that I worked on to learn the skills of Web Front-end.  
 I'll delete it in case of copyright problems with Twitter.
 
 If you need an explanation, You can refer to the README.md in each folder.
